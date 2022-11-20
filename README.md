@@ -19,9 +19,11 @@
 
 <ul class="flex flex-col py-4">
     <li>🌱 I’m currently learning <strong>react.js | next.js | tailwindcss</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://s.id/ra-fa" class="text-secondary-600 dark:text-secondary-300 hover:underline">https://s.id/ra-fa</a>
+    <li>👨‍💻 All of my projects are available at 
+        <a href="https://s.id/ra-fa" class="text-secondary-600 dark:text-secondary-300 hover:underline">https://s.id/ra-fa</a>
     </li>
-    <li>📝 I regularly write articles on <a href="https://s.id/b-raf" class="text-secondary-600 dark:text-secondary-300 hover:underline">https://s.id/b-raf</a>
+    <li>📝 I regularly write articles on
+        <a href="https://s.id/b-raf" class="text-secondary-600 dark:text-secondary-300 hover:underline">https://s.id/b-raf</a>
     </li>
     <li>📫 How to reach me <strong>contact.rafaalrazzak@gmail.com</strong></li>
     <li>⚡ Fun fact <strong>I&#39;m very curious</strong></li>
