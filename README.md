@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafa Al Razzak</h1>
 <h3 align="center">I am a student at AL-ASIYAH vocational high school</h3>
-<div class"flex flex-col gap-4 py-6">
+<div class="flex flex-col gap-4 py-6">
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=rafaalrazzak&label=Profile%20views&color=0e75b6&style=flat"
             alt="rafaalrazzak" />
