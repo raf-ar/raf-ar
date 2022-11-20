@@ -23,8 +23,9 @@
 - 📫 How to reach me **contact.rafaalrazzak@gmail.com**
 - ⚡ Fun fact **I'm very curious**
 
-<h3 align="left">Connect with me:</h3>
+
 <div align="left" class="flex gap-4">
+    <h3 align="left">Connect with me:</h3>
     <a href="https://codepen.io/rafa_ar" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -61,8 +62,8 @@
             alt="rafa.ar.id" height="30" width="40" />
     </a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
 <div align="left" class="flex gap-4">
+    <h3 align="left">Languages and Tools:</h3>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" />
@@ -131,7 +132,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </div>
 
-<div class="flex gap-4">
+<div class="flex gap-4 my-4">
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaalrazzak&show_icons=true&locale=en&layout=compact"
             alt="rafaalrazzak" />
@@ -146,5 +147,13 @@
 </div>
 <h3 align="left">Support:</h3>
 
-[![rafaar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMBJUrG1xcGEyclqpfwooQD8VsSugFioyZ_CMOsp0c4NXbh1ulgIP3Lk&s=10)](https://trakteer.id/rafaar)
-[![rafaar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkVSdZ6TXvhkBUdw1q1yv8hYzcBuaIPrcgw&usqp=CAU)](https://saweria.co/rafaar)
+<p class="flex">
+    <a href="https://trakteer.id/rafaar">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMBJUrG1xcGEyclqpfwooQD8VsSugFioyZ_CMOsp0c4NXbh1ulgIP3Lk&amp;s=10"
+            alt="rafaar">
+    </a>
+    <a href="https://saweria.co/rafaar">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkVSdZ6TXvhkBUdw1q1yv8hYzcBuaIPrcgw&amp;usqp=CAU"
+            alt="rafaar">
+    </a>
+</p>
