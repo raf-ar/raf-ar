@@ -26,7 +26,7 @@
 
 <div align="left">
     <h3 align="left">Connect with me:</h3>
-    <div class="flex gap-4 my-4">
+    <div class="flex gap-4 py-4">
         <a href="https://codepen.io/rafa_ar" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -66,7 +66,7 @@
 </div>
 <div align="left">
     <h3 align="left">Languages and Tools:</h3>
-    <div class="flex gap-4 my-4">
+    <div class="flex gap-4 py-4">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
@@ -138,7 +138,7 @@
     </div>
 </div>
 
-<div class="flex gap-4 my-4">
+<div class="flex gap-4 py-4">
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaalrazzak&show_icons=true&locale=en&layout=compact"
             alt="rafaalrazzak" />
@@ -154,7 +154,7 @@
 
 <div align="left">
     <h3 align="left">Support:</h3>
-    <div class="flex gap-4 my-4">
+    <div class="flex gap-4 py-4">
         <p class="flex">
             <a href="https://trakteer.id/rafaar">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMBJUrG1xcGEyclqpfwooQD8VsSugFioyZ_CMOsp0c4NXbh1ulgIP3Lk&amp;s=10"
