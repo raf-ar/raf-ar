@@ -18,11 +18,11 @@
 </div>
 
 <ul class="flex flex-col py-4">
-<li>🌱 I’m currently learning <strong>react.js | next.js | tailwindcss</strong></li>
-<li>👨‍💻 All of my projects are available at <a href="https://s.id/ra-fa" class="text-secondary-500 hover:underline dark:text-secondary-200">https://s.id/ra-fa</a></li>
-<li>📝 I regularly write articles on <a href="https://s.id/b-raf" class="text-secondary-500 hover:underline dark:text-secondary-200">https://s.id/b-raf</a></li>
-<li>📫 How to reach me <strong>contact.rafaalrazzak@gmail.com</strong></li>
-<li>⚡ Fun fact <strong>I&#39;m very curious</strong></li>
+<li style={{ listStyleType: "disc" }}>🌱 I’m currently learning <strong>react.js | next.js | tailwindcss</strong></li>
+<li style={{ listStyleType: "disc" }}>👨‍💻 All of my projects are available at <a href="https://s.id/ra-fa" class="text-secondary-500 dark:text-secondary-200">https://s.id/ra-fa</a></li>
+<li style={{ listStyleType: "disc" }}>📝 I regularly write articles on <a href="https://s.id/b-raf" class="text-secondary-500 dark:text-secondary-200">https://s.id/b-raf</a></li>
+<li style={{ listStyleType: "disc" }}>📫 How to reach me <strong>contact.rafaalrazzak@gmail.com</strong></li>
+<li style={{ listStyleType: "disc" }}>⚡ Fun fact <strong>I&#39;m very curious</strong></li>
 </ul>
 
 <div align="left">
@@ -67,7 +67,7 @@
 </div>
 <div align="left">
     <h3 align="left">Languages and Tools:</h3>
-    <div class="flex gap-4 py-4 flex-wrap" style={{ display: "flex", flexWrap: "wrap" }}>
+    <div class="flex gap-4 py-4 flex-wrap" style={{ display: flex, flexWrap: wrap }}>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="flex">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
