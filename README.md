@@ -151,11 +151,11 @@
     <p class="flex">
         <a href="https://trakteer.id/rafaar">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMBJUrG1xcGEyclqpfwooQD8VsSugFioyZ_CMOsp0c4NXbh1ulgIP3Lk&amp;s=10"
-                alt="rafaar">
+                alt="rafaar" />
         </a>
         <a href="https://saweria.co/rafaar">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkVSdZ6TXvhkBUdw1q1yv8hYzcBuaIPrcgw&amp;usqp=CAU"
-                alt="rafaar">
+                alt="rafaar" />
         </a>
     </p>
 </div>
