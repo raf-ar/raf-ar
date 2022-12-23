@@ -151,6 +151,10 @@
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaalrazzak&" alt="rafaalrazzak" />
     </p>
+    
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+    
 </div>
 
 <div align="left">
