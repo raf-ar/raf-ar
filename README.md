@@ -140,6 +140,9 @@
 </div>
 
 <div class="flex gap-4 py-4">
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaalrazzak&show_icons=true&locale=en&layout=compact"
             alt="rafaalrazzak" />
@@ -151,6 +154,7 @@
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaalrazzak&" alt="rafaalrazzak" />
     </p>
+
 </div>
 
 <div align="left">
