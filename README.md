@@ -1,5 +1,7 @@
+<div align="center">
 <h1 align="center">Hi 👋! My name is Rafa Al Razzak</h1>
-<h2 align="center">I'm a Full-Stack Web Developer from Indonesia</h2>
+<h2 align="center">I'm a Full-Stack Web Developer from Indonesia</h2> 
+</div>
 <div align="center">
   <img height="200" src="https://res.cloudinary.com/raf-ar/image/upload/v1670138621/thumbnail/raf-dark-social-stack.png"  />
 </div>
