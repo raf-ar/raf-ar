@@ -59,7 +59,7 @@
 </div>
 <br clear="both" />
 <div align="center">
-<img src="https://raw.githubusercontent.com/rafaalrazzak/rafaalrazzak/de5ad4065c4fc42fa9d96d3d4ecdb8ffced5d6bd/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafaalrazzak/rafaalrazzak/output/snake.svg" alt="Snake animation" />
 </div>
 <div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=82lw86klb5buo4b5tqszacwkc&width=800" alt="Recent Played" />
