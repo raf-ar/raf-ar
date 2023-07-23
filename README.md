@@ -2,9 +2,6 @@
 <h1>Hi 👋!, My name is Rafa Al Razzak</h1>
 <h2>I'm a Full-Stack Web Developer from Indonesia</h2> 
  </div>
-<div align="center">
-  <img height="200" src="https://res.cloudinary.com/raf-ar/image/upload/v1670138621/thumbnail/raf-dark-social-stack.png"  />
-</div>
 <br clear="both" />
 <div align="center" class="inline-flex gap-2 flex-wrap">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=rafaalrazzak" height="150" alt="stats graph"  />
@@ -53,14 +50,4 @@
   <a href="https://codesandbox.com/rafa_ar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
-</div>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@rafaar" alt="Layout with last medium posts"  />
-</div>
-<br clear="both" />
-<div align="center">
-<img src="https://raw.githubusercontent.com/rafaalrazzak/rafaalrazzak/output/snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=82lw86klb5buo4b5tqszacwkc&width=800" alt="Recent Played" />
 </div>
